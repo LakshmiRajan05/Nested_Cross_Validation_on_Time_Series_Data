@@ -1,5 +1,5 @@
-# Nested_Cross_Validation_on_Time_Series_Data
-Nested cross-validation is implemented on a time series data-demand_prediction  
+# Nested_Cross_Validation_on_Time_Series_Data_Model
+Nested cross-validation is implemented on a time series data modelled using SARIMAX model 
  
 Cross-validation is used to measure out-of-sample accuracy by averaging over several random partitions of the data into training and test samples. Nested cross-validation (CV) is often used to train a model in which hyperparameters also need to be optimized. Model selection without nested CV uses the same data to tune model parameters and evaluate model performance. This may cause hyper-parameter overfitting. 
 
